@@ -1,0 +1,1 @@
+In this program, register r0 is used to store input values and hold the final erithmetic result. The observable behavior of ./add is silnet because there is no system call or function to print output to the terminal.
