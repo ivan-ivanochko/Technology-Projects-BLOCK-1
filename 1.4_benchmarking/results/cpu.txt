@@ -1,0 +1,7 @@
+CPU Speed Test
+
+Execution time: 1.161 sec
+
+CPU temparature: 55.0 'C
+
+CPU usage: 100%.

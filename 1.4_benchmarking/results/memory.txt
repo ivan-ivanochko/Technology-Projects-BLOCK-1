@@ -1,0 +1,8 @@
+Memory usage:
+
+total: 905Mi
+used: 448Mi
+free: 131Mi
+shared: 102Mi
+buff/cache: 483Mi
+available: 457Mi
