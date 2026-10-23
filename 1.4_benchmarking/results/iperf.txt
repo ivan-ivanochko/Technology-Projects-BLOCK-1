@@ -1,0 +1,2 @@
+Bandwidth: 7.06 Gbits/sec
+Total: 8.22 GBytes

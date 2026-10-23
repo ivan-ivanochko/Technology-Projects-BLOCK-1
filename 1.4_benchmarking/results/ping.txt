@@ -1,0 +1,2 @@
+Latency min/avg/max - 0.036/0.058/0.100 ms
+Packet loss: 0%

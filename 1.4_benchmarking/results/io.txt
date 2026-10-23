@@ -1,0 +1,4 @@
+Storage Read/Write Speed
+Write: 35.1 MB/s
+Read: 45.2 MB.s
+
